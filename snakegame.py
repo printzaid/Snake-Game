@@ -1,4 +1,4 @@
-#This is a snake game made in python
+#This is a snake game made in python using pygame
 import pygame
 import time
 import random
